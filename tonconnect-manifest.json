@@ -1,28 +1,6 @@
 {
-  "app_name": "tonkeeper",
-  "name": "Tonkeeper",
-  "image": "https://tonkeeper.com/assets/tonconnect-icon.png",
-  "tondns": "tonkeeper.ton",
-  "about_url": "https://tonkeeper.com",
-  "universal_url": "https://app.tonkeeper.com/ton-connect",
-  "bridge": [
-    {
-      "type": "sse",
-      "url": "https://bridge.tonapi.io/bridge"
-    },
-    {
-      "type": "js",
-      "key": "tonkeeper"
-    }
-  ],
-  "platforms": [
-    "ios",
-    "android",
-    "chrome",
-    "firefox",
-    "safari",
-    "windows",
-    "macos",
-    "linux"
-  ]
+  "url": "https://app.lattex.xyz/",
+  "name": "Blockchain Admin",
+  "iconUrl": "https://ton-connect.github.io/demo-dapp-with-wallet/apple-touch-icon.png",
+  "universal_url": "https://app.tonkeeper.com/ton-connect"
 }
